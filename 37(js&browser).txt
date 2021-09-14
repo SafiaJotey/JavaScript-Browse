@@ -1,0 +1,23 @@
+1.Html tree and css sheet together render create tree  
+2.java script Execute in browse with v8 engine
+
+
+****** v8 engine******
+i.just in time compiler
+ii. turbofan compiler
+
+3.setTimeout(functionName/anonymousFunction, time in miliseconds)
+##for example setTimeout(abc,5000)
+abc will execute after 5 sec of all code runs 
+4.setTimeout can make synchronous Js Asynchronous
+5.fetch works as asynchronously
+6.setInterval(functionName/anonymousFunction, time in miliseconds)
+##for example Interval(abc,5000)
+abc will execute after EVERY 5 sec of all code runs continuously
+clearInterval stop the code
+&.eventLoop()
+%%%%documentation-
+1. https://youtu.be/8aGhZQkoFbQ
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+
+****http layers****
